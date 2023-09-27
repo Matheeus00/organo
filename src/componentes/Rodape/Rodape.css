@@ -1,0 +1,19 @@
+.rodape-pagina {
+    background-color: #6278F7;
+    height: 250px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.rodape-pagina .media {
+    display: flex;
+    justify-content: space-between;
+    width: 180px;
+    cursor: pointer;
+}
+
+.rodape-pagina .develop {
+    color: #FFFFFF;
+    font-weight: 600;
+}
